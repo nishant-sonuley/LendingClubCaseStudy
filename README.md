@@ -18,18 +18,16 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Each graph gives insight on attirbutes (parameters)
+- We can observe patterns in graph and decide if loan can be risky or not
+- Type driven metric alone are not good indicator to have definitive conclusion
+- Data driven and business driven metrics work best here, provide more insights when coupled with other attributes (parameters). 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
